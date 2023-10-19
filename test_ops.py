@@ -13,4 +13,4 @@ def test_divide():
     assert divide(10,5) == 2
 
 def test_power():
-    assert power(2,3) == 8
+    assert power(2,4) == 16
